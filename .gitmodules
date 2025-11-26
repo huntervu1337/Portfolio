@@ -4,3 +4,9 @@
 [submodule "Games/Hex-Game"]
 	path = Games/Hex-Game
 	url = https://github.com/huntervu1337/Hex-Game.git
+[submodule "Linux/My-Shell"]
+	path = Linux/My-Shell
+	url = https://github.com/huntervu1337/My-Shell.git
+[submodule "Research Project/GNSS-SDR"]
+	path = Research Project/GNSS-SDR
+	url = https://github.com/huntervu1337/GNSS-SDR.git
