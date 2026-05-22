@@ -15,17 +15,20 @@
     url = https://github.com/huntervu1337/GNSS-SDR.git
 
 [submodule "Backend Web App/BluemoonManagement"]
-    path = Backend Web App/BluemoonManagement
-    url = https://github.com/khoatran18/BluemoonManagement.git
+	path = Backend Web App/BluemoonManagement
+	url = https://github.com/khoatran18/BluemoonManagement.git
+	branch = main
 
 [submodule "Backend Web App/OnlineQuiz"]
     path = Backend Web App/OnlineQuiz
     url = https://github.com/tungvuhoang/BTL_CNWeb.git
 
 [submodule "AI-ML/Route-finding-on-map"]
-    path = AI-ML/Route-finding-on-map
-    url = https://github.com/huntervu1337/Project-AI.git
+	path = AI-ML/Route-finding-on-map
+	url = https://github.com/huntervu1337/Project-AI.git
+	branch = main
 
 [submodule "AI-ML/SSH-anomaly-detection-using-ML"]
-    path = AI-ML/SSH-anomaly-detection-using-ML
-    url = https://github.com/huntervu1337/SSH-anomaly-detection-using-ML.git
+	path = AI-ML/SSH-anomaly-detection-using-ML
+	url = https://github.com/huntervu1337/SSH-anomaly-detection-using-ML.git
+	branch = main
