@@ -1,12 +1,31 @@
 [submodule "Games/SAIKYOU-SAMURAI-PROJECT"]
-	path = Games/SAIKYOU-SAMURAI-PROJECT
-	url = https://github.com/huntervu1337/SAIKYOU-SAMURAI-PROJECT.git
+    path = Games/SAIKYOU-SAMURAI-PROJECT
+    url = https://github.com/huntervu1337/SAIKYOU-SAMURAI-PROJECT.git
+
 [submodule "Games/Hex-Game"]
-	path = Games/Hex-Game
-	url = https://github.com/huntervu1337/Hex-Game.git
+    path = Games/Hex-Game
+    url = https://github.com/huntervu1337/Hex-Game.git
+
 [submodule "Linux/My-Shell"]
-	path = Linux/My-Shell
-	url = https://github.com/huntervu1337/My-Shell.git
+    path = Linux/My-Shell
+    url = https://github.com/huntervu1337/My-Shell.git
+
 [submodule "Research Project/GNSS-SDR"]
-	path = Research Project/GNSS-SDR
-	url = https://github.com/huntervu1337/GNSS-SDR.git
+    path = Research Project/GNSS-SDR
+    url = https://github.com/huntervu1337/GNSS-SDR.git
+
+[submodule "Backend Web App/BluemoonManagement"]
+    path = Backend Web App/BluemoonManagement
+    url = https://github.com/khoatran18/BluemoonManagement.git
+
+[submodule "Backend Web App/OnlineQuiz"]
+    path = Backend Web App/OnlineQuiz
+    url = https://github.com/tungvuhoang/BTL_CNWeb.git
+
+[submodule "AI-ML/Route-finding-on-map"]
+    path = AI-ML/Route-finding-on-map
+    url = https://github.com/huntervu1337/Project-AI.git
+
+[submodule "AI-ML/SSH-anomaly-detection-using-ML"]
+    path = AI-ML/SSH-anomaly-detection-using-ML
+    url = https://github.com/huntervu1337/SSH-anomaly-detection-using-ML.git
